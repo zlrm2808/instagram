@@ -1,0 +1,18 @@
+{
+    "name": "zlrm2/instagram",
+    "autoload": {
+        "psr-4": {
+            "Zlrm2\\Instagram\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zeus Rodriguez",
+            "email": "zlrm2808@hotmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
